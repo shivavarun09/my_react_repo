@@ -1,0 +1,19 @@
+#Navbar_header{
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+}
+#links{
+  display: flex;
+}
+#links > a{
+  padding:5px;
+background-color: green;
+margin: 2px;
+text-decoration: none;
+color: black;
+border-radius: 3px;
+cursor: pointer;
+}
